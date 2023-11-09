@@ -1,7 +1,15 @@
-html, body {
-    margin: 0;
-    padding: 0;
+body {
+    background: grey
+}
+
+  h1 {
+      text-align: center;
   }
-  canvas {
-    display: block;
+
+  p {
+      text-align: center;
+  }
+
+  strong {
+      color: aqua;
   }
